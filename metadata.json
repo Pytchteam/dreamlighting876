@@ -1,0 +1,12 @@
+{
+  "name": "Dream Lighting 876",
+  "description": "Premium Event Experience Architects in Jamaica. Lighting, 360 Photo Booths, LED Robots, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Event Booking",
+    "Interactive Wizard",
+    "Video Showcase"
+  ]
+}
